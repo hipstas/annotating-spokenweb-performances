@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Annotating Performance in the SpokenWeb Collections" ] },
+    "summary": { "en": [ "This is an anthology of annotated performances from the SpokenWeb Collections." ] },
+    "items": [
+    ]
+}
