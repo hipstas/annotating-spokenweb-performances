@@ -23,6 +23,48 @@
         "id": "https://hipstas.github.io/annotating-spokenweb-performances/-muriel-rukeyser-at-sgwu-1969-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3084,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://hipstas.github.io/annotating-spokenweb-performances/annotations/-muriel-rukeyser-at-sgwu-1969--canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://hipstas.github.io/annotating-spokenweb-performances/annotations/-muriel-rukeyser-at-sgwu-1969--canvas-1-introducer.json",
+            "label": {
+              "none": ["Introducer"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://hipstas.github.io/annotating-spokenweb-performances/annotations/-muriel-rukeyser-at-sgwu-1969--canvas-1-rukeyser-reading.json",
+            "label": {
+              "none": ["Rukeyser reading"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://hipstas.github.io/annotating-spokenweb-performances/annotations/-muriel-rukeyser-at-sgwu-1969--canvas-1-rukeyser-speaking.json",
+            "label": {
+              "none": ["Rukeyser speaking"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://hipstas.github.io/annotating-spokenweb-performances/annotations/-muriel-rukeyser-at-sgwu-1969--canvas-1-spaces.json",
+            "label": {
+              "none": ["Spaces"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://hipstas.github.io/annotating-spokenweb-performances/-muriel-rukeyser-at-sgwu-1969-/canvas-1/paintings",
