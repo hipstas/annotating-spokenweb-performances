@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://hipstas.github.io/annotating-spokenweb-performances/kathy-acker-performance-reading-1986/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Kathy Acker Performance Reading 1986" ] },
+    "label": { "en": [ "Formulating Affinities and Defiances through Discomfort" ] },
     "homepage": [
       {
         "id": "https://archive.org/details/kathy-acker-foufs-nov-4-1986-2",
         "type": "Text",
-        "label": { "en": [ "Kathy Acker Performance Reading 1986" ] },
+        "label": { "en": [ "Formulating Affinities and Defiances through Discomfort" ] },
         "format": "text/html"
       }
     ],

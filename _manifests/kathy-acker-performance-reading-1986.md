@@ -1,6 +1,6 @@
 ---
 layout: manifest
-title: Kathy Acker Performance Reading 1986
+title: Formulating Affinities and Defiances through Discomfort
 manifest_name: kathy-acker-performance-reading-1986
 
 ---
