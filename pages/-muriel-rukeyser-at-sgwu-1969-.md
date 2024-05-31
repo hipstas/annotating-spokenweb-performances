@@ -1,6 +1,6 @@
 ---
 layout: item
-title: '"Muriel Rukeyser at SGWU, 1969"'
+title: Annotating a Duality of Spaces in Muriel Rukeyser's "The Speed of Darkness"
 manifest_name: "-muriel-rukeyser-at-sgwu-1969-"
 permalink: "-muriel-rukeyser-at-sgwu-1969-"
 external_manifest_url: 
