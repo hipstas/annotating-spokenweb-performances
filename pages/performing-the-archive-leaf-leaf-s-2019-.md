@@ -1,6 +1,6 @@
 ---
 layout: item
-title: 'Performing the Archive: leaf leaf/s (2019)'
+title: Hearing Lived Experience
 manifest_name: performing-the-archive-leaf-leaf-s-2019-
 permalink: performing-the-archive-leaf-leaf-s-2019-
 external_manifest_url: https://hipstas.github.io/hearing-lived-experience/performing-the-archive-leaf-leaf-s-2019-/manifest.json
